@@ -1,0 +1,5 @@
+### Virtual Machine Folder ###
+.vagrant/
+
+### VS Code ###
+.vscode/
